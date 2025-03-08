@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Silkscreen:wght@400;700&display=swap');
+.lagu{
+    text-align: center;
+    display: grid;  
+    background-color: rgb(145, 120, 148);
+    margin: 0px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 40px;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: 0px 8px 25px 5px rgba(190, 101, 187, 0.379);
+}
+.lagu1{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-right: 70px;
+}
+.lagu1:first-child{
+    margin-bottom: -70px;
+}
+.lagu1-wrapper{
+    flex-direction: column;
+    gap: 10px;
+}
+.lagu1-wrapper iframe:first-child {
+    margin-bottom: -65px;
+}
+.lagu2{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-right: 70px;
+}
+.lagu2:first-child{
+    margin-bottom: -70px;
+}
+.lagu2-wrapper{
+    flex-direction: column;
+    gap: 10px;
+}
+.lagu2-wrapper iframe:first-child {
+    margin-bottom: -65px;
+}
+.lagu3{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-right: 70px;
+}
+.lagu3:first-child{
+    margin-bottom: -70px;
+}
+.lagu3-wrapper{
+    flex-direction: column;
+    gap: 10px;
+}
+.lagu3-wrapper iframe:first-child {
+    margin-bottom: -65px;
+}
+.lagu4{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-right: 70px;
+}
+.lagu4:first-child{
+    margin-bottom: -70px;
+}
+.lagu4-wrapper{
+    flex-direction: column;
+    gap: 10px;
+}
+.lagu4-wrapper iframe:first-child {
+    margin-bottom: -65px;
+}
+.lagu5{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-right: 70px;
+}
+.lagu5:first-child{
+    margin-bottom: -70px;
+}
+.lagu5-wrapper{
+    flex-direction: column;
+    gap: 10px;
+}
+.lagu5-wrapper iframe:first-child {
+    margin-bottom: -65px;
+}
+.lagu1, .lagu2, .lagu3, .lagu4, .lagu5{
+    margin-bottom: -70px;
+}
+body{
+    background-color: rgb(119, 142, 184);
+    background-image: url('../gambar.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    font-family: "Chakra Petch";
+    color: rgb(7, 5, 47);
+    margin: 0px;
+    padding: 0px;
+}

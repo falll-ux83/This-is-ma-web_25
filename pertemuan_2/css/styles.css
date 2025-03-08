@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Silkscreen:wght@400;700&display=swap');
+.jumbotron{
+    background-color: rgb(74, 179, 179);
+    text-align: center;
+    text-size-adjust: 100%;
+    font-size: 35px;
+    margin: 0px;
+    padding: 15px;
+}
+.nav-1{
+    background-color: rgb(63, 80, 80);
+    padding: 10px;
+}
+.nav-1 ul li{
+    display: inline ;
+    margin: 6px;
+    font-weight: bold;
+}
+.nav-1 ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: padding 0.2s ease;
+}
+.nav-1 ul li a:hover{
+    background-color: rgb(72, 108, 108);
+    padding: 0.7em;
+}
+.part2{
+    text-align: center;
+}
+.DIARY{
+    background-color: rgb(145, 120, 148);
+    text-align: justify;
+    margin: 7px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 15px 5px rgba(190, 101, 187, 0.379);
+}
+body{
+  background-color: rgb(119, 142, 184);
+  background-image: url('../vibrant-neon-colorful-liquid-background.jpg');
+  background-repeat: no-repeat;
+  background-size: 245%;
+  background-position: center;
+  font-family: "Chakra Petch";
+  color: rgb(7, 5, 47);
+  margin: 0px;
+  padding: 0px;
+}
+.video1{
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    display: block;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.video-container{
+    background-color: rgb(92, 96, 170);
+    text-align: center;
+    margin: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 250px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 15px 5px rgba(60, 72, 150, 0.379);
+}
+.sinopsis{
+    text-align: justify;   
+}
+.bold-text{
+    font-weight: bold;
+}
+.musiklirikfoto{
+    text-align: justify;
+    background-color: rgb(145, 120, 148);
+    margin: 0px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: -225px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 25px 5px rgba(190, 101, 187, 0.379);
+}
+.img-style{
+    width: 400px;
+}
+.lirik{
+    text-align: justify;
+}
+.center{
+    text-align: center;
+}
+.table-background{
+    background-color: rgb(92, 96, 170);
+    text-align: justify;
+    margin: 7px;
+    margin-left: 350px;
+    margin-right: 200px;
+    margin-top: 25px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 15px 5px rgba(60, 72, 150, 0.379);
+}
+.table-background{
+    width: 50%;
+    padding: 30px;
+}
+.table{
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+}
+ table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+ }
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+}
+.table {
+    width:100%;
+  }
+.pulaukumala{
+    text-align: center;
+    background-color: rgb(145, 120, 148);
+    margin: 0px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 25px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 25px 5px rgba(190, 101, 187, 0.379);
+}
+.sinopsis{
+    text-align: justify;
+}
+.yt{
+    text-align: center;
+    background-color: rgb(92, 96, 170);
+    margin: 0px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 25px 5px rgba(60, 72, 150, 0.379);
+}
+.playlist{
+    background: rgb(56, 59, 100);
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0px 4px 8px rgba(81, 82, 136, 0.2);
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: -20px;
+}
+.playlist ul li{
+    display: inline ;
+    margin: 6px;
+    font-weight: bold;
+}
+.playlist ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: padding 0.2s ease;
+}
+.playlist ul li a:hover{
+    background-color: rgb(72, 108, 108);
+    padding: 0.7em;
+}

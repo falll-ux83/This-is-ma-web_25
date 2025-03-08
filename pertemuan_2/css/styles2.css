@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Silkscreen:wght@400;700&display=swap');
+.bio{
+    background-image: url('../liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    width: fit-content;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 150px;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-radius: 10px;
+}
+.bio2{
+    max-width: 100%;
+    width: fit-content;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 20%;
+    height: 20%;
+    border-radius: 10px;
+}
+.text{
+    background-color: rgb(98, 100, 121);
+    margin-left: -100px;
+    margin-right: 100px;
+    padding: 20px;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(119, 142, 184);
+    background-image: url('../gambar.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    font-family: "Chakra Petch";
+    color: rgb(7, 5, 47);
+    margin: 0px;
+    padding: 0px;
+}

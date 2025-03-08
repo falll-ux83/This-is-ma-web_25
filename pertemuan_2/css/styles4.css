@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Silkscreen:wght@400;700&display=swap');
+.instagram{
+    background-color: rgb(123, 113, 228);
+    font-size: 150px;
+    margin-top: 100px;
+    margin-bottom: -75px;
+    margin-left: -10px;
+    margin-right: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    border-radius: 10px;
+    padding: -10px;
+}
+.nama{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+.nama a{
+    color: rgb(40, 42, 74);
+    background-color: rgb(127, 221, 211);
+    text-decoration: none;
+    font-size: 80px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    gap: 10px;
+}
+.steam{
+    background-color: rgb(123, 113, 228);
+    border-radius: 10px;
+    font-size: 150px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: -10px;
+    margin-right: -10px;
+    display: flex;
+    align-items: center;
+}
+.akunsteam{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+.akunsteam a{
+    background-color: rgb(127, 221, 211);
+    color: rgb(40, 42, 74);
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 80px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.boxigsteam{
+    background-image: url('../gambar.png');
+    width: 60%;
+    max-width: 600px;
+    padding: 85px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+body{
+    background-color: rgb(119, 142, 184);
+    background-image: url('../vibrant-neon-colorful-liquid-background.jpg');
+    background-repeat: no-repeat;
+    background-size: 245%;
+    background-position: center;
+    font-family: "Chakra Petch";
+    color: rgb(7, 5, 47);
+    margin: 0px;
+    padding: 0px;
+  }
